@@ -2,16 +2,20 @@ div{
   width:auto;
   height:auto;
   padding:70px;
-  background-color: #ffffff;
+  background-color: #ece4d8;
 }
 
 h2{
   color: #7c334f;
   font-family: 'Open Sans', Myriad, Calibri, sans-serif;
+  padding-top:20px;
+  padding-right:0px;
+  padding-bottom:20px;
+  padding-left:0px;
 }
 
 h1{
-  color: #000000;
+  color: #ffffff;
   font-family: 'Open Sans', Myriad, Calibri, sans-serif;
   background-color: #7c334f;
   text-align: center;
