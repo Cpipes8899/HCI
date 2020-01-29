@@ -10,6 +10,13 @@ h2{
   font-family: 'Open Sans', Myriad, Calibri, sans-serif;
 }
 
+h1{
+  color: #000000;
+  font-family: 'Open Sans', Myriad, Calibri, sans-serif;
+  background-color: #7c334f;
+  text-align: center;
+}
+
 p{
   color: #417090;
   font-family: 'Open Sans', Myriad, Calibri, sans-serif;
