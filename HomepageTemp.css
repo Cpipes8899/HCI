@@ -1,5 +1,11 @@
 div{
   width:auto;
   height:auto;
-  padding:100em;
+  padding:10em;
+  background-color: #ece4d8;
+}
+
+h2{
+  color: #7c334f;
+  font-family: 'Open Sans', Myriad, Calibri, sans-serif;
 }
