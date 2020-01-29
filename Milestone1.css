@@ -16,7 +16,7 @@ h2{
   font-family: 'Open Sans', Myriad, Calibri, sans-serif;
   padding-top:20px;
   padding-right:0px;
-  padding-bottom:20px;
+  padding-bottom:0px;
   padding-left:0px;
 }
 
@@ -25,6 +25,10 @@ h1{
   font-family: 'Open Sans', Myriad, Calibri, sans-serif;
   background-color: #7c334f;
   text-align: center;
+   padding-top:20px;
+  padding-right:0px;
+  padding-bottom:20px;
+  padding-left:0px;
 }
 
 p{
