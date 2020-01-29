@@ -28,10 +28,3 @@ p{
   color: #417090;
   font-family: 'Open Sans', Myriad, Calibri, sans-serif;
 }
-
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
