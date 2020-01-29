@@ -1,5 +1,5 @@
 # FeelGoodInc
-# ![FeelGoodInc Logo](/Feel Good Inc website.png)
+![FeelGoodInc Logo](/Feel Good Inc website.png)
 
 
 ## Team Won Milestones
