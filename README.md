@@ -4,5 +4,5 @@
 
 ## Team Won Milestones
 
-### -[Milestone 1](https://cpipes8899.github.io/HCI/HomepageTemp)
+### -[Milestone 1](https://cpipes8899.github.io/HCI/Milestone1.html)
 
